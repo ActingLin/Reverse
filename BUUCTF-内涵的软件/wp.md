@@ -8,6 +8,8 @@
     进入 _main_0，按Tab查看伪代码
 
 ![1.exe](image.png =300x200)
+<img src="image.png"  width="600" />
+
 
     开始以为 DBAPP{49d3c93df25caad81232130f3d2ebfad}并不是flag
 
